@@ -15,21 +15,35 @@ def game_hash
       :blocks => 1,
       :slam_dunks => 1
     },
+    {
+      :player_name => "Reggie Evans", 
+      :number => 30, 
+      :shoe => 14, 
+      :points => 12,
+      :rebounds => 12,
+      :assists => 12,
+      :steals => 12,
+      :blocks => 12,
+      :slam_dunks => 7
+    },
     ]
   }, 
   :away => {
     :team_name => " ",
     :colors => [" ", " "],
-    :players => [{
+    :players => [
+      {
       :player_name => " ", 
       :number => , 
       :shoe => , 
-      :points => 50,
-      :rebounds => 10,
-      :assists => 5,
-      :steals => 5,
-      :blocks => 5,
-      :slam_dunks => 5}]
+      :points => ,
+      :rebounds => ,
+      :assists => ,
+      :steals => ,
+      :blocks => ,
+      :slam_dunks => 
+    },
+    ]
   }
   }
 end
